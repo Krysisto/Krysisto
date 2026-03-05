@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Afriza! 👋
 
-<!--
-**Krysisto/Krysisto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Informatics student at Universitas Mulia with a strong passion for Data Analytics, Artificial Intelligence, and Data Science. I enjoy turning raw data into meaningful insights and building practical systems that generate structured data. 
 
-Here are some ideas to get you started:
+Currently, I am focusing on strengthening my foundational programming skills and understanding how web architectures work behind the scenes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I'm Currently Working On
+* **Restaurant Point of Sale (POS) System:** I am developing a decoupled POS system using an API-driven architecture. The goal is not just to build a functional transaction system, but to create a reliable "data factory" to collect clean, structured sales data for future exploratory data analysis (EDA) and business intelligence projects.
+
+### 🌱 My Tech Stack
+I am currently learning and deepening my knowledge in:
+* **Languages:** Python, PHP, SQL
+* **Frontend:** HTML, CSS
+* **Interests:** Data Analytics, Machine Learning, Database Management
+
+### 📫 How to Reach Me
+* **Email:** riza.afriza111@gmail.com
+
+---
+*"Always eager to learn and ready to turn coffee into code and data into decisions."*
